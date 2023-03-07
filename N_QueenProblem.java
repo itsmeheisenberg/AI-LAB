@@ -1,8 +1,4 @@
-import java.net.SocketImpl;
 import java.util.*;
-
-import javax.swing.plaf.metal.MetalBorders.ScrollPaneBorder;
-
 public class N_QueenProblem {
 
     public static boolean isSafe(char board[][], int row, int col) {
